@@ -1,0 +1,21 @@
+MACHINE LEARNING - Project - Music Genre Classification
+
+Submmitted by: Nithyashree Senguttuvan, 011808333
+
+*Programming Language: Python
+
+*Python version : 3.10.6
+
+*3 Code file - Programmed using Jupyter Notebook
+
+Model comparison with feature extraction:
+
+*Music Genre Classification 1.py
+
+Implementation of KNN classifier
+
+*Music Genre Classification 2_KNN.py
+
+Test code for a input file named AdiyaeKolluthey.wav
+
+*Music Genre Classification 3_Test.py
